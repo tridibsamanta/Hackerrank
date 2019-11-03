@@ -5,3 +5,7 @@ Solutions to some Hackerrank Problems
 
 https://www.hackerrank.com/challenges/sherlock-and-array/problem
 
+2. Pairs
+
+https://www.hackerrank.com/challenges/pairs/problem
+
