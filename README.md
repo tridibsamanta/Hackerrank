@@ -1,5 +1,5 @@
-# Hackerrank
-Solutions to some Hackerrank Problems
+# HackerRank
+Solutions to some HackerRank Problems
 
 1. Sherlock and Array
 
@@ -9,3 +9,6 @@ https://www.hackerrank.com/challenges/sherlock-and-array/problem
 
 https://www.hackerrank.com/challenges/pairs/problem
 
+3. Missing Numbers
+
+https://www.hackerrank.com/challenges/missing-numbers/problem
