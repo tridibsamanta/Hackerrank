@@ -21,6 +21,12 @@ https://www.hackerrank.com/challenges/simple-array-sum/problem
 
 https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
+6. A very big sum
+
+https://www.hackerrank.com/challenges/a-very-big-sum/problem
+
+
+
 
 
 
