@@ -25,6 +25,12 @@ https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
 https://www.hackerrank.com/challenges/a-very-big-sum/problem
 
+7. Diagonal Difference
+
+https://www.hackerrank.com/challenges/diagonal-difference/problem
+
+
+
 
 
 
