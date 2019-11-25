@@ -33,6 +33,10 @@ https://www.hackerrank.com/challenges/diagonal-difference/problem
 
 https://www.hackerrank.com/challenges/plus-minus/problem
 
+9. Mini Max Sum
+
+https://www.hackerrank.com/challenges/mini-max-sum/problem
+
 
 
 
