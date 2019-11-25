@@ -13,4 +13,8 @@ https://www.hackerrank.com/challenges/pairs/problem
 
 https://www.hackerrank.com/challenges/missing-numbers/problem
 
-4. 
+4. Simple Array Sum
+
+https://www.hackerrank.com/challenges/simple-array-sum/problem
+
+
