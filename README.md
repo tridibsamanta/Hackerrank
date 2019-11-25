@@ -17,4 +17,10 @@ https://www.hackerrank.com/challenges/missing-numbers/problem
 
 https://www.hackerrank.com/challenges/simple-array-sum/problem
 
+5. Compare the Triplets
+
+https://www.hackerrank.com/challenges/compare-the-triplets/problem
+
+
+
 
