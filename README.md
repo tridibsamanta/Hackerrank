@@ -37,7 +37,9 @@ https://www.hackerrank.com/challenges/plus-minus/problem
 
 https://www.hackerrank.com/challenges/mini-max-sum/problem
 
+10. Birthday Cake Candles
 
+https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 
 
 
