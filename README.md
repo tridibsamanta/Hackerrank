@@ -49,7 +49,9 @@ https://www.hackerrank.com/challenges/time-conversion/problem
 
 https://www.hackerrank.com/challenges/bon-appetit/problem
 
+13. Sock Merchant
 
+https://www.hackerrank.com/challenges/sock-merchant/problem
 
 
 
