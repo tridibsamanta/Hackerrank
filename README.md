@@ -41,7 +41,9 @@ https://www.hackerrank.com/challenges/mini-max-sum/problem
 
 https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 
+11. Time Conversion
 
+https://www.hackerrank.com/challenges/time-conversion/problem
 
 
 
