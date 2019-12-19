@@ -61,3 +61,9 @@ https://www.hackerrank.com/challenges/drawing-book/problem
 
 https://www.hackerrank.com/challenges/counting-valleys/problem
 
+16. Electronics Shop
+
+https://www.hackerrank.com/challenges/electronics-shop/problem
+
+
+
