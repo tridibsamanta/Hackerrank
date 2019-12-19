@@ -65,5 +65,9 @@ https://www.hackerrank.com/challenges/counting-valleys/problem
 
 https://www.hackerrank.com/challenges/electronics-shop/problem
 
+17. Cats and a Mouse
+
+https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+
 
 
