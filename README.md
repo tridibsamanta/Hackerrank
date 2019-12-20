@@ -69,5 +69,9 @@ https://www.hackerrank.com/challenges/electronics-shop/problem
 
 https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
 
+18. Forming a Magic Square
+
+https://www.hackerrank.com/challenges/magic-square-forming/problem
+
 
 
