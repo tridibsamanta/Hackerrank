@@ -73,5 +73,9 @@ https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
 
 https://www.hackerrank.com/challenges/magic-square-forming/problem
 
+19. Picking Numbers
+
+https://www.hackerrank.com/challenges/picking-numbers/problem
+
 
 
