@@ -81,6 +81,8 @@ https://www.hackerrank.com/challenges/picking-numbers/problem
 
 https://www.hackerrank.com/challenges/grading/problem
 
+21. Apple and Orange
 
+https://www.hackerrank.com/challenges/apple-and-orange/problem
 
 
