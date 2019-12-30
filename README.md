@@ -77,5 +77,10 @@ https://www.hackerrank.com/challenges/magic-square-forming/problem
 
 https://www.hackerrank.com/challenges/picking-numbers/problem
 
+20. Grading Students
+
+https://www.hackerrank.com/challenges/grading/problem
+
+
 
 
