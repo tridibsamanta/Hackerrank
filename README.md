@@ -1,5 +1,5 @@
 # HackerRank
-My solutions to some of the HackerRank Problems
+My solutions to some of the HackerRank Problems using C++
 
 1. Sherlock and Array
 
