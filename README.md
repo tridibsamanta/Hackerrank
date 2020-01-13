@@ -97,5 +97,7 @@ https://www.hackerrank.com/challenges/between-two-sets/problem
 
 https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 
+25. Birthday Chocolate
 
+https://www.hackerrank.com/challenges/the-birthday-bar/problem
 
