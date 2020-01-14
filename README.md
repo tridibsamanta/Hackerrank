@@ -101,3 +101,7 @@ https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 
 https://www.hackerrank.com/challenges/the-birthday-bar/problem
 
+26. Divisible Sum Pairs
+
+https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+
