@@ -105,3 +105,6 @@ https://www.hackerrank.com/challenges/the-birthday-bar/problem
 
 https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
 
+27. Migratory Birds
+
+https://www.hackerrank.com/challenges/migratory-birds/problem
