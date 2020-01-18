@@ -112,3 +112,7 @@ https://www.hackerrank.com/challenges/migratory-birds/problem
 28. Day of the Programmer
 
 https://www.hackerrank.com/challenges/day-of-the-programmer/problem
+
+29. Climbing the Leaderboard
+
+https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
