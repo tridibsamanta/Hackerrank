@@ -116,3 +116,7 @@ https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 29. Climbing the Leaderboard
 
 https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+
+30. The Hurdle Race
+
+https://www.hackerrank.com/challenges/the-hurdle-race/problem
