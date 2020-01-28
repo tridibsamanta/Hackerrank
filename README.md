@@ -120,3 +120,7 @@ https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 30. The Hurdle Race
 
 https://www.hackerrank.com/challenges/the-hurdle-race/problem
+
+31. Designer PDF Viewer
+
+https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
