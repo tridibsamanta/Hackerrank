@@ -124,3 +124,7 @@ https://www.hackerrank.com/challenges/the-hurdle-race/problem
 31. Designer PDF Viewer
 
 https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+
+32. Utopian Tree
+
+https://www.hackerrank.com/challenges/utopian-tree/problem
