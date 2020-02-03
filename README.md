@@ -132,3 +132,7 @@ https://www.hackerrank.com/challenges/utopian-tree/problem
 33. Angry Professor
 
 https://www.hackerrank.com/challenges/angry-professor/problem
+
+34. Beautiful Days at the Movies
+
+https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
