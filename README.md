@@ -128,3 +128,7 @@ https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
 32. Utopian Tree
 
 https://www.hackerrank.com/challenges/utopian-tree/problem
+
+33. Angry Professor
+
+https://www.hackerrank.com/challenges/angry-professor/problem
