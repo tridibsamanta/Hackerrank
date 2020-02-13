@@ -136,3 +136,7 @@ https://www.hackerrank.com/challenges/angry-professor/problem
 34. Beautiful Days at the Movies
 
 https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+
+35. Viral Advertising
+
+https://www.hackerrank.com/challenges/strange-advertising/problem
