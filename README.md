@@ -140,3 +140,9 @@ https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
 35. Viral Advertising
 
 https://www.hackerrank.com/challenges/strange-advertising/problem
+
+36. Save the Prisoner!
+
+https://www.hackerrank.com/challenges/save-the-prisoner/problem
+
+
