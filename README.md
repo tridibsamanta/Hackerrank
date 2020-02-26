@@ -149,4 +149,8 @@ https://www.hackerrank.com/challenges/save-the-prisoner/problem
 
 https://www.hackerrank.com/challenges/circular-array-rotation/problem
 
+38. Sequence Equation
+
+https://www.hackerrank.com/challenges/permutation-equation/problem
+
 
