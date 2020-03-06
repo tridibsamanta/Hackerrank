@@ -1,4 +1,4 @@
-# HackerRank Solutions by Tridib Samanta
+# HackerRank Solutions
 My solutions to some Hackerrank problems in C++.
 
 1. Sherlock and Array
