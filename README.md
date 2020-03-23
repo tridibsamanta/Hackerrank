@@ -167,3 +167,7 @@ https://www.hackerrank.com/challenges/find-digits/problem
 41. Extra Long Factorials
 
 https://www.hackerrank.com/challenges/extra-long-factorials/problem
+
+42. Append and Delete
+
+https://www.hackerrank.com/challenges/append-and-delete/problem
