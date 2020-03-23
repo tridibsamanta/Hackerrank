@@ -175,3 +175,7 @@ https://www.hackerrank.com/challenges/append-and-delete/problem
 43. Sherlock and Squares
 
 https://www.hackerrank.com/challenges/sherlock-and-squares/problem
+
+44. Library Fine
+
+https://www.hackerrank.com/challenges/library-fine/problem
