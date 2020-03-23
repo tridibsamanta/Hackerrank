@@ -160,4 +160,6 @@ https://www.hackerrank.com/challenges/permutation-equation/problem
 
 https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
 
+40. Find Digits
 
+https://www.hackerrank.com/challenges/find-digits/problem
