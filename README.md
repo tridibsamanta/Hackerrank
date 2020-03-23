@@ -163,3 +163,7 @@ https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
 40. Find Digits
 
 https://www.hackerrank.com/challenges/find-digits/problem
+
+41. Extra Long Factorials
+
+https://www.hackerrank.com/challenges/extra-long-factorials/problem
