@@ -156,4 +156,8 @@ https://www.hackerrank.com/challenges/circular-array-rotation/problem
 
 https://www.hackerrank.com/challenges/permutation-equation/problem
 
+39. Jumping on the Clouds: Revisited
+
+https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+
 
