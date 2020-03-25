@@ -179,3 +179,7 @@ https://www.hackerrank.com/challenges/sherlock-and-squares/problem
 44. Library Fine
 
 https://www.hackerrank.com/challenges/library-fine/problem
+
+45. Cut the sticks
+
+https://www.hackerrank.com/challenges/cut-the-sticks/problem
