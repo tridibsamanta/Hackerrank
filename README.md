@@ -2,7 +2,7 @@
 
 ![HackerRank](https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png)
 
-####***My solutions to some Hackerrank problems in C++***
+***My solutions to some Hackerrank problems in C++.***
 
 1. Sherlock and Array
 
