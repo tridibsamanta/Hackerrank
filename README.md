@@ -187,3 +187,7 @@ https://www.hackerrank.com/challenges/cut-the-sticks/problem
 46. Non-Divisible Subset
 
 https://www.hackerrank.com/challenges/non-divisible-subset/problem
+
+47. Repeated String
+
+https://www.hackerrank.com/challenges/repeated-string/problem
