@@ -191,3 +191,7 @@ https://www.hackerrank.com/challenges/non-divisible-subset/problem
 47. Repeated String
 
 https://www.hackerrank.com/challenges/repeated-string/problem
+
+48. Jumping on the Clouds
+
+https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
