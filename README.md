@@ -195,3 +195,7 @@ https://www.hackerrank.com/challenges/repeated-string/problem
 48. Jumping on the Clouds
 
 https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+
+49. Balanced Brackets
+
+https://www.hackerrank.com/challenges/balanced-brackets/problem
