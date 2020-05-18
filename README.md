@@ -199,3 +199,7 @@ https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
 49. Balanced Brackets
 
 https://www.hackerrank.com/challenges/balanced-brackets/problem
+
+50. Queue using Two Stacks
+
+https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
