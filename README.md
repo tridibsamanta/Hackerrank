@@ -203,3 +203,7 @@ https://www.hackerrank.com/challenges/balanced-brackets/problem
 50. Queue using Two Stacks
 
 https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+
+51. Height of a Binary Tree
+
+https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem
