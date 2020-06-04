@@ -217,4 +217,6 @@ https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
 
 https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
 
+54. Insert a Node at the Tail of a Linked List
 
+https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
