@@ -213,4 +213,8 @@ https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem
 
 https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
 
+53. Print the Elements of a Linked List
+
+https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
+
 
