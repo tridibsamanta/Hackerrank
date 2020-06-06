@@ -224,3 +224,8 @@ https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list
 55. Arrays - DS
 
 https://www.hackerrank.com/challenges/arrays-ds/problem
+
+56. 2D Array - DS
+
+https://www.hackerrank.com/challenges/2d-array/problem
+
