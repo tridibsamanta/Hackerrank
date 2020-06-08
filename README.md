@@ -2,7 +2,7 @@
 
 ![HackerRank](https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png)
 
-***My solutions to some Hackerrank problems in C++.***
+***My solution to some problems listed at HackerRank***
 
 1. Sherlock and Array
 
@@ -233,5 +233,6 @@ https://www.hackerrank.com/challenges/2d-array/problem
 
 https://www.hackerrank.com/challenges/coin-change/problem
 
+58. Equalize the Array
 
-
+https://www.hackerrank.com/challenges/equality-in-a-array/problem
