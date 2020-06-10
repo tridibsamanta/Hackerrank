@@ -248,3 +248,7 @@ https://www.hackerrank.com/challenges/halloween-party/problem
 61. Filling Jars
 
 https://www.hackerrank.com/challenges/filling-jars/problem
+
+62. Is Fibo
+
+https://www.hackerrank.com/challenges/is-fibo/problem
