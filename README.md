@@ -244,3 +244,7 @@ https://www.hackerrank.com/challenges/taum-and-bday/problem
 60. Halloween party
 
 https://www.hackerrank.com/challenges/halloween-party/problem
+
+61. Filling Jars
+
+https://www.hackerrank.com/challenges/filling-jars/problem
