@@ -236,3 +236,7 @@ https://www.hackerrank.com/challenges/coin-change/problem
 58. Equalize the Array
 
 https://www.hackerrank.com/challenges/equality-in-a-array/problem
+
+59. Taum and B'day
+
+https://www.hackerrank.com/challenges/taum-and-bday/problem
