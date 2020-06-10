@@ -240,3 +240,7 @@ https://www.hackerrank.com/challenges/equality-in-a-array/problem
 59. Taum and B'day
 
 https://www.hackerrank.com/challenges/taum-and-bday/problem
+
+60. Halloween party
+
+https://www.hackerrank.com/challenges/halloween-party/problem
