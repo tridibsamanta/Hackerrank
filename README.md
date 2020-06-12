@@ -252,3 +252,7 @@ https://www.hackerrank.com/challenges/filling-jars/problem
 62. Is Fibo
 
 https://www.hackerrank.com/challenges/is-fibo/problem
+
+63. Beautiful Triplets
+
+https://www.hackerrank.com/challenges/beautiful-triplets/problem
