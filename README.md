@@ -261,4 +261,6 @@ https://www.hackerrank.com/challenges/beautiful-triplets/problem
 
 https://www.hackerrank.com/challenges/minimum-distances/problem
 
+65. Halloween Sale
 
+https://www.hackerrank.com/challenges/halloween-sale/problem
