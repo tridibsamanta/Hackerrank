@@ -256,3 +256,9 @@ https://www.hackerrank.com/challenges/is-fibo/problem
 63. Beautiful Triplets
 
 https://www.hackerrank.com/challenges/beautiful-triplets/problem
+
+64. Minimum Distances
+
+https://www.hackerrank.com/challenges/minimum-distances/problem
+
+
