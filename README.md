@@ -272,3 +272,7 @@ https://www.hackerrank.com/challenges/chocolate-feast/problem
 67. Luck Balance
 
 https://www.hackerrank.com/challenges/luck-balance/problem
+
+68. Maximum Perimeter Triangle
+
+https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem
