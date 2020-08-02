@@ -268,3 +268,7 @@ https://www.hackerrank.com/challenges/halloween-sale/problem
 66. Chocolate Feast
 
 https://www.hackerrank.com/challenges/chocolate-feast/problem
+
+67. Luck Balance
+
+https://www.hackerrank.com/challenges/luck-balance/problem
